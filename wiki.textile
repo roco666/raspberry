@@ -68,6 +68,8 @@ Headings
 
 You must leave a blank line after each heading.
 
+{{toc}}
+
 h1. First heading
 
 h2. Second heading
